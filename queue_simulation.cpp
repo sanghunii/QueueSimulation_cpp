@@ -76,7 +76,7 @@ int main() {
     }
 
 
-//##print out simulation result
+//##print out simulation
     if (customers > 0)
     {
         cout << "-------------------------------\n";
